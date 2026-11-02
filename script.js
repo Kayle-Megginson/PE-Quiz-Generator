@@ -5518,15 +5518,41 @@ const availableFor = subject => (banks[subject] || []).filter(questionMatches);
 const hideAll = () => document.querySelectorAll('.generator-view,.view').forEach(view => view.classList.add('hidden'));
 const show = id => { hideAll(); $(id).classList.remove('hidden'); window.scrollTo(0, 0); };
 
+function balancedWavePlan(subjects, perSubject) {
+  const ordered = subjectOrder.filter(subject => subjects.includes(subject));
+  const counts = Object.fromEntries(ordered.map(subject => [subject, perSubject]));
+  const baseMaximum = Math.floor(100 / ordered.length);
+  let remaining = perSubject === baseMaximum ? 100 - (perSubject * ordered.length) : 0;
+
+  // Give a one-question remainder only to sections that can supply it. This
+  // preserves contiguous section waves while reaching 100 whenever possible.
+  for (const subject of ordered) {
+    if (!remaining) break;
+    if (availableFor(subject).length > perSubject) {
+      counts[subject] += 1;
+      remaining -= 1;
+    }
+  }
+
+  return { counts, total: Object.values(counts).reduce((sum, count) => sum + count, 0) };
+}
+
 function updateCount() {
   const subjects = selectedSubjects().filter(subject => availableFor(subject).length);
-  const maximum = subjects.length ? Math.min(...subjects.map(subject => availableFor(subject).length)) : 0;
+  // One slider value applies to every selected section, so the quiz remains
+  // organized in equal, contiguous subject waves and never exceeds 100 items.
+  const maximum = subjects.length
+    ? Math.min(Math.floor(100 / subjects.length), ...subjects.map(subject => availableFor(subject).length))
+    : 0;
   const slider = $('#question-count');
   slider.max = maximum;
   slider.disabled = !maximum;
   if (+slider.value > maximum) slider.value = maximum;
   if (!maximum) slider.value = 0;
-  $('#question-total').textContent = `${slider.value}/${maximum}`;
+  const plan = subjects.length ? balancedWavePlan(subjects, +slider.value) : { total: 0 };
+  $('#question-total').textContent = subjects.length
+    ? `${slider.value}/${maximum} per subject (${plan.total}/100 total)`
+    : '0/0';
 }
 
 function timerText(value) {
@@ -5692,8 +5718,17 @@ $('#generator-form').addEventListener('submit', event => {
   const count = +$('#question-count').value;
   const chosen = selectedSubjects();
   if (!chosen.length || !count) { $('#form-message').textContent = 'Choose at least one available subject and question count.'; return; }
+  if (chosen.some(subject => !availableFor(subject).length)) {
+    $('#form-message').textContent = 'Each selected subject needs at least one question matching the selected complexity filters.';
+    return;
+  }
+  const plan = balancedWavePlan(chosen, count);
+  if (plan.total > 100) {
+    $('#form-message').textContent = 'Generated quizzes are limited to 100 questions.';
+    return;
+  }
   // Each bank remains one contiguous wave in its original source order.
-  quiz = subjectOrder.filter(subject => chosen.includes(subject)).flatMap(subject => availableFor(subject).slice(0, count));
+  quiz = subjectOrder.filter(subject => chosen.includes(subject)).flatMap(subject => availableFor(subject).slice(0, plan.counts[subject]));
   if (!quiz.length) { $('#form-message').textContent = 'No stored questions are available for that selection yet.'; return; }
   answers = Array(quiz.length).fill(null); flags = Array(quiz.length).fill(false); current = 0;
   solutionMode = $('[name="solution-mode"]:checked').value;
