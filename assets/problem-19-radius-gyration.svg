@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="62" viewBox="0 0 340 62" role="img" aria-label="r equals square root of I over A equals square root of 307 inches to the fourth over 11.7 inches squared equals 5.12 inches">
+  <g fill="#203d5e" stroke="#203d5e" font-family="Cambria Math, Times New Roman, serif" font-size="22">
+    <text x="1" y="39" stroke="none" font-style="italic">r =</text>
+    <path d="M43 30h6l6 15L62 8h35" fill="none" stroke-width="1.4"/>
+    <text x="80" y="29" text-anchor="middle" stroke="none" font-style="italic">I</text>
+    <line x1="72" y1="35" x2="88" y2="35" stroke-width="1"/>
+    <text x="80" y="57" text-anchor="middle" stroke="none" font-style="italic">A</text>
+    <text x="104" y="39" stroke="none">=</text>
+    <path d="M132 30h6l6 15L151 8h122" fill="none" stroke-width="1.4"/>
+    <text x="212" y="29" text-anchor="middle" stroke="none">307 in⁴</text>
+    <line x1="166" y1="35" x2="258" y2="35" stroke-width="1"/>
+    <text x="212" y="57" text-anchor="middle" stroke="none">11.7 in²</text>
+    <text x="278" y="39" stroke="none">= 5.12 in</text>
+  </g>
+</svg>

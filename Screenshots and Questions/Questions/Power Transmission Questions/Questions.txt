@@ -1,0 +1,455 @@
+Question ID:1701037
+What is the synchronous speed of a 4-pole, 230-V, 1Ø, 60-Hz electric motor?
+A. 3,600 rpm
+B. 2,400 rpm
+C. 1,800 rpm
+D. 1,200 rpm
+
+Question ID:1702019
+A statically balanced 0.25m diameter crank shaft has its axis of rotation aligned with the vertical, z, axis and is supported by two 6005 single-row deep-groove ball bearings, one each at the top and bottom of the crank shaft, separated by a distance of 1 m. Reference the sketch below. The bearings have a static basic load rating of 6,550 N and a dynamic basic load rating of
+11,200 N. The crank shaft is symmetric about the xz plane and has a mass of 5.21 kg and the following mass moments of inertia about its center of mass:
+I_{xx} = 0.524 kg m^2
+I_{yy} = 0.371 kg m^2
+I_{xx} = 0.153 kgm^2
+I_{xy} = 0.0 kg m^2
+I_{xx} = 0.0 kgm^2
+I_{yz} = 0.0851 kg m^2
+which is located on the axis of rotation and is equidistant from each bearing center. Assuming that the top bearing takes no vertical load and the crank shaft rotates at a constant rotational speed of 500 rpm, the magnitude of the reaction force on the bottom bearing is closest to:
+A. 51 N
+B. 233 N
+C. 239 N
+D. 21,275 N
+
+Question ID:1702033
+A 10 hp motor producing a torque of 25 ft-lbs spins a flywheel up to a steady state. If the motor is then turned off, and its internal friction decelerates the flywheel at 10 rad/s², what value is closest to the time it takes the flywheel to stop?
+A. 12 s
+B. 22 s
+C. 32 s
+D. 42 s
+
+Question ID:1704027
+A motor is attached to a 2-in diameter shaft transmitting 300 ft-lbf of torque. The shaft transmits the torque to a coupling via a 0.25-in square key that is 3.5 in long. The key is made from L2 tool steel. Assume shear stress is 60% of tensile yield. The safety factor of this key is most nearly:
+A. 5
+B. 10
+C. 12
+D. 15
+
+Question ID:1704028
+A motor output shaft must be reduced in size to fit the pulley it will be driving. This will create a round shaft with a shoulder. The smaller diameter shaft will then be able to fit the pulley. What design options can be used to reduce the stress concentration at the shoulder?
+A. Reduce the size of the radius of the fillet "r"
+B. Increase the size of the radius of fillet "r"
+C. Find a motor with an output shaft D1 that is as close to the size of shaft D2
+D. Both B and C
+
+Question ID:1705015
+A machine has an imbalanced shaft with a mass of 12 lbm. The center of mass is 1.0 in from the center of rotation, and the shaft is rotating at 9,000 rpm. What is the maximum vertical force experienced by the machine due to the rotating imbalance?
+A. 12,500 lbf
+B. 27,600 lbf
+C. 331,200 lbf
+D. 887,000 lbf
+
+Question ID:1706006
+Consider a pulley with a cable running over it, creating an angle of wrap of 90°. The pulley can rotate on its axis "O". However, one end of the cable is being pulled by an applied force. The other end of the cable holds a mass of 6.0 kg. If the coefficient of friction between the pulley and the cable is f = 0.33 what is the value of the applied force if the cable is to move in the direction of the applied force?
+A. 75 N
+B. 99 N
+C. 120 N
+D. 80 N
+
+Question ID:1706007
+Which of the following options cannot be used to calculate the velocity ratio (VR) for a pair of gears?
+A. $\frac{p_{\text{pinion}}}{p_{\text{gear}}}$
+B. $\frac{r_{\text{gear}}}{r_{\text{pinion}}}$
+C. $\frac{\omega_{\text{pinion}}}{\omega_{\text{gear}}}$
+D. $\frac{n_{\text{pinion}}}{n_{\text{gear}}}$
+
+Question ID:1706008
+A 10-hp motor spinning at 3,000 rpm outputs to a single plate clutch with OD 10 in and ID 2 in. If the friction material has a friction coefficient of 0.45, what is the force required on the clutch plate? Assume uniform wear theory.
+A. 50 lbf
+B. 75 lbf
+C. 100 lbf
+D. 150 lbf
+
+Question ID:1706009
+A deep groove ball bearing with a C rating of 500 lbs is used on a motor output shaft spinning 5,000 rpm. If the radial load on the bearing is 200 lbs, what is the expected design life of the bearing in hours?
+A. 25 hours
+B. 52 hours
+C. 70 hours
+D. 105 hours
+
+Question ID:1706011
+A journal bearing has a journal diameter of 6 in and a length of 5 in. The bushing hole diameter is 6.01 in. The lubricant is SAE grade 60 oil at 150° F. The shaft is carrying 1,800 lbf and rotates at 1,000 rpm. The coefficient of friction is most nearly which of the following?
+A. 0.001
+B. 0.016
+C. 0.033
+D. 0.065
+
+Question ID:1706012
+To reduce a motor shaft spinning at 200 rpm to 50 rpm, gears with a diametral pitch of 7 are used. If the pinion gear has 25 teeth, the center distance between the pinion shaft and gear shaft is most nearly which of the following?
+A. 3.57 in
+B. 8.93 in
+C. 14.29 in
+D. 17.85 in
+
+Question ID:1706013
+A belt drive is used to power a mechanical component on a tractor. If the flat urethane belt slips in its typical application, which of the following would NOT be a strategy to address this?
+A. Switch to timing belt configuration
+B. Reconfigure to increase angle of wrap
+C. Switch to a leather belt
+D. Include a belt tensioner
+
+Question ID:1706020
+A gear set contains a spur pinion with the following properties:
+d = 6 in
+varphi = 20 deg
+If a torque of 2,500 in-lb is applied to the spur pinion, determine the tangential force on the pinion.
+A. 1,500 lb
+B. 1,200 lb
+C. 1,000 lb
+D. 833 lb
+
+Question ID:1706021
+A gear set contains a spur and pinion with the following properties for the spur:
+Pitch Circle Diameter: d = 6 in
+Pressure Angle @ Pitch Point: Ø = 20°
+If a torque of 2,500 in-lb is applied to the spur by the pinion, determine the separating force on the spur gear.
+A. 833 lb
+B. 416 lb
+C. 303 lb
+D. 208 lb
+
+Question ID:1706022
+A gear set contains a spur pinion with the following properties:
+d = 6 in
+varphi = 20 deg
+If a torque of 2,500 in-lb is applied to the spur pinion, determine the total force on the spur gear tooth.
+A. 833 lb
+B. 416 lb
+C. 886 lb
+D. 303 lb
+
+Question ID:1706024
+A square key with side dimensions of 0.302 in is to be used to key a gear onto a 1.5-in-diameter shaft. If the shaft and key are made of the same material having an allowable shear stress of 9,500 psi, determine the minimum length of the square key if 4,350 in-lb of torque is transmitted.
+A. 2.00 in
+B. 2.25 in
+C. 2.50 in
+D. 2.75 in
+
+Question ID:1706025
+A square key with side dimensions of 0.3 in and a length of 2 in is to be used to key a gear onto a 1.5-in-diameter shaft. If the shaft and key are made of the same material, having an allowable shear stress of 9,500 psi, determine the torque that is transmitted by the key.
+A. 4,275 in-lb
+B. 4,340 in-lb
+C. 6,550 in-lb
+D. 3,020 in-lb
+
+Question ID:1706026
+A 14-in-diameter pulley rotates with a speed of 1,200 rpm and transmits 4 hp. The belt is 1 in wide by 0.125 in thick and is made of leather with a density of 0.035 lbm/in³. If the coefficient of friction between the belt and pulley is 0.28 and the angle of contact is 180 degrees, find the stress in the belt.
+A. 70 psi
+B. 140 psi
+C. 240 psi
+D. 480 psi
+
+Question ID:1706030
+A single-row ball bearing is rotated at 1,750 rpm and has a dynamic basic-load rating of 14.00 kN. A radial load of 1,500 N is applied to the bearing. What is the expected lifetime of the bearing?
+A. 2.8 hrs
+B. 464,593 hrs
+C. 225,844 hrs
+D. 7,743 hrs
+
+Question ID:1706031
+A 2-4 Acme-threaded power screw is operated with the following parameters: dmajor = 2.00 in, dminor = 1.72 in, number of starts 1, and lead = 0.25 in/rev. What is the minimum coefficient of friction for this power screw to be self-locking?
+A. 0.05
+B. 0.10
+C. 0.15
+D. 0.30
+
+Question ID:1706033
+A given single plate clutch with an OD of 7 in and ID of 4 in has friction material with a friction coefficient of 0.5. The friction material has a max pressure of 30 psi. The difference in normal force for this clutch between uniform pressure and uniform wear is most nearly:
+A. 200 lb.
+B. 560 lb.
+C. 770 lb.
+D. 1,200 lb.
+
+Question ID:1706034
+An electrical motor rated for 20 amps and 240 volts has an electrical motor efficiency of 85%. The mechanical motor output in watts is most nearly:
+A. 2000 W.
+B. 3800 W.
+C. 4080 W.
+D. 4800 W.
+
+Question ID:1706035
+A single-cylinder motor is producing 25 ft-lb of torque at 3300 rpm. If the attached generator is outputting 10 kW, the electric generator efficiency is most nearly:
+A. 50%
+Β. 75%.
+C. 85%.
+D. 95%.
+
+Question ID:1706036
+A direct current 5-hp motor with 95% efficiency draws 10 amps at full load. The motor voltage is most nearly:
+A. 120 volts.
+B. 180 volts.
+C. 300 volts.
+D. 390 volts.
+
+Question ID:1706037
+A two-sided clutch must be designed to fit inside a 10 in diameter housing. The inner diameter of the clutch is limited to 3 in. The clutch axial force is applied on each side by six springs that have an equivalent spring constant of 300 lb/in. When the clutch is engaged, the springs are compressed 0.6 in from their free length. What value is closest to the maximum torque that
+the clutch can support? Assume uniform pressure and a friction coefficient of 0.3 for the clutch plate.
+A. 190 in-lb
+B. 320 in-lb
+C. 380 in-lb
+D. 641 in-lb
+
+Question ID:1706038
+The brake caliper shown in Figure 1 must generate sufficient braking torque to resist a 55 ft-lb torque at one wheel. The brake disk has an inner friction radius of 4 in, and an outer friction radius of 9 in. The brake lining has a coefficient of friction of 0.42, and uniform wear is assumed.
+A single brake pad contacts approximately one-quarter of the circumference of the brake disk. This angular coverage does not affect the torque equation; it is provided only to illustrate the pad geometry. The caliper applies the required normal force through two 1.5-in.-diameter hydraulic pistons acting on the brake pad.
+Determine the hydraulic pressure required in the pistons to produce the braking torque.
+A. 137 psi
+B. 70 psi
+C. 140 psi
+D. 280 psi
+
+Question ID:1706039
+A given single-plate clutch with an outer diameter of 7 in and an inner diameter of 4 in has friction material with a friction coefficient of 0.3. Axial normal force is 600 lb. What value is closest to the difference in torque for this clutch between uniform pressure and uniform wear?
+A. 12 in-lb
+B. 24 in-lb
+C. 48 in-lb
+D. 106 in-lb
+
+Question ID:1706040
+An electrical motor rated for 15A and 120V has an electrical motor efficiency of 90%. What value is closest to the mechanical motor output in horsepower (hp)?
+A. 2.2 hp
+B. 3.5 hp
+C. 1,620 hp
+D. 1,800 hp
+
+Question ID:1706041
+A 10 hp motor running at 3300 rpm has a 50-tooth gear with a 5 in pitch diameter and ½ in width mounted to the output shaft. Assuming a Lewis form factor of 0.4, what value is closest to the maximum bending stress in the gear tooth?
+A. 1,000 psi
+B. 1,900 psi
+C. 3,800 psi
+D. 4,500 psi
+
+Question ID:1706042
+A radial ball bearing has a static load rating of 7,500 lbf based on a million-revolution life. The inner ring rotates with no shock loading. The bearing design case stipulates a 6,500 lbf radial load and a 3,500 lbf thrust load. What is most nearly the expected service life in revolutions?
+A. 280,000 rev
+B. 560,000 rev
+C. 1,100,000 rev
+D. 1,600,000 rev
+
+Question ID:1706044
+A steel shaft with a diameter of 4 inches has a yield stress of 56,000 psi. A key will be fabricated from a 7/8-inch square steel stock, which has a yield stress of 75,000 psi. The allowable shear stress is specified as half of the material's yield stress. What is the necessary length of the key to ensure its strength matches that of the shaft? Use a safety factor of 1.2 (in shear)?
+A. 3.7 in
+B. 6.5 in
+C. 8.9 in
+D. 9.8 in
+
+Question ID:1706045
+A straight-cut spur gear has a pitch diameter of 4.00 in, a face width of 1.5 in, 45 teeth, and a Lewis form factor of 0.44. Bending stress at the tooth root is limited to 45,000 psi. What is the allowable tangential load per tooth? Disregard additional stress factors.
+A. 1,500 lbf
+B. 2,600 lbf
+C. 3,800 lbf
+D. 11,000 lbf
+
+Question ID:1706046
+A 10-in-diameter gear is mated to a 4-in-diameter pinion to form a gear set. The 10-in-diameter gear is spinning at 1,475 rpm and 45 hp is applied to the 4-in-diameter pinion. How much torque is being applied to the pinion?
+A. 45 ft-lb
+B. 65 ft-lb
+C. 80 ft-lb
+D. 105 ft-lb
+
+Question ID:1706047
+A shaft spins at 30 rpm through a 3.5-in-wide journal bearing. The shaft diameter is 1.5 in and the journal radial clearance is 0.001 in. The friction coefficient is 0.005 and the pressure that must be supported is 300 psi. What viscosity of oil is needed for the bearing in this design?
+A. 2.1E-4 reyn
+B. 1.7E-4 reyn
+C. 0.7E-4 reyn
+D. 0.1E-4 reyn
+
+Question ID:1706050
+What is the lead angle of a 3/8-in UNF bolt that experiences an efficiency of 75% and a raise torque of 6 in-lbf under a load of 680 lbf?
+A. 4.53°
+B. 2.17°
+C. 3.12°
+D. 1.75°
+
+Question ID:1706051
+A shaft running at 600-rpm transmits 12 kW. Assuming the allowable shear stress in the shaft is 40 MPa, the diameter of the shaft is most nearly which of the following?
+
+Given:
+$\tau = \frac{Tr}{J}$
+
+$J_{\text{shaft}} = \frac{\pi r^4}{2}$
+
+$T = \frac{5250 \times \text{HP}}{\text{rpm}}$
+
+$1 \text{ kW} = 1.341 \text{ HP}$
+
+$1 \text{ kPa} = 0.145 \text{ psi}$
+
+$1 \text{ in} = 2.54 \text{ cm}$
+
+A. 50 mm
+B. 65 mm
+C. 29 mm
+D. 25 mm
+
+Question ID:1706052
+A stock involute gear has 18 teeth, a pitch circle diameter of 10 in, and a pressure angle of 30°. Which of the following is the base pitch of the gear?
+A. 1.51 in/tooth
+B. 6.62 in/tooth
+C. 10.24 in/tooth
+D. 7.32 in/tooth
+
+Question ID:1706053
+A motor running at 200 rpm is used to drive a shaft as shown. The motor pulley (P1: d₁800 mm) drives an intermediate shaft containing P2 (d_{2} = 500mm) and P3 (d_{3} = 900mm) If the diameter of P4 is 150 mm, the speed of pulley 4, ignoring friction, is most nearly which of the following?
+A. 0.1 rpm
+B. 21 rpm
+C. 1,920 rpm
+D. 37.5 rpm
+
+Question ID:1706054
+A plate clutch that has a single driving plate with contact surfaces on each side is required to transmit 145 kW at 1,350 rpm. The outer diameter of the contact surfaces is 400 mm, and the inner diameter is 200 mm. The coefficient of friction is 0.4. If the shaft is under uniform pressure, what is the force applied to the shaft?
+A. 8,241 N
+B. 6,743 N
+C. 7,576 N
+D. 4,227 N
+
+Question ID:1706057
+A small sprocket with 13 teeth drives a 1-in Type A roller chain at 150 rpm. What is the horsepower rating for the roller chain?
+A. 5.8
+B. 7.52
+C. 5.32
+D. 6.77
+
+Question ID:1706062
+A keyed 4-in diameter shaft transmits 40,000 lb-in of torque. The key is 0.75 in wide, and the material has a shear strength of 12,000 psi and a yield strength of 24,000 psi. Determine the length of the key
+A. 3.8 in
+B. 1.9 in
+C. 4.1 in
+D. 2.2 in
+
+Question ID:1706065
+A clutch assembly is comprised of a shaft, 14 steel discs, and 12 bronze discs with external and internal diameters of 12 in and 10 in. If the shaft is under a uniform pressure of 150 lb and rotates at 1,200 rpm on its axis, determine the horsepower generated by the shaft if the coefficient of friction is 0.35
+A. 122 hp
+B. 138 hp
+C. 143 hp
+D. 112 hp
+
+Question ID:1706066
+A plate clutch that has a single driving plate with contact surfaces on each side is required to transmit 145 kW at 1,350 rpm. The outer diameter of the contact surfaces is 400 mm and the inner diameter is 200 mm. The coefficient of friction is 0.4. If the shaft is under uniform pressure, find the maximum pressure applied to the shaft.
+A. 0.069 N/mm²
+B. 0.089 N/mm²
+C. 0.042 N/mm²
+D. 0.076 N/mm²
+
+Question ID:1706069
+A 120° journal bearing has a 7-in diameter, an 11-in length, and a radial clearance of 0.006 in. The lubricating fluid is SAE 10 oil with a viscosity of 2.2 * 10 ^ - 6 * lb + (- s) / i * n ^ 2 , and the bearing carries a load of 72 psi at 1,100 rpm. What is the bearing frictional torque using Petroff's equation?
+A. 112 in-lbf
+B. 145 in-lbf
+C. 125 in-lbf
+D. 131 in-lbf
+
+Question ID:1706070
+A solid steel shaft has a diameter of 1 in and is loaded with a torque of 10 in-lb. Find the shear stress in the outer surface of the shaft.
+A. 51.02 lb/in²
+B. 61.05 lb/in²
+C. 47.53 lb/in²
+D. 57.70 lb/in²
+
+Question ID:1706071
+A steel shaft has an outside diameter of 1 in and an inside diameter of 0.5 in. The shaft is loaded with a torque of 10 in-lb. Find the shear stress in the outer surface of the shaft.
+A. 51.02 lb/in²
+B. 54.35 lb/in²
+C. 47.53 lb/in²
+D. 57.70 lb/in²
+
+Question ID:1706072
+A steel shaft has an outside diameter of 1 in and an inside diameter of 0.5 in. The shaft is loaded with a torque of 10 in-lb. What is the shear stress in the inner surface of the shaft?
+A. 51.02 lb/in²
+B. 54.35 lb/in²
+C. 27.17 lb/in²
+D. 25.51 lb/in²
+
+Question ID:1706073
+A hand crank is connected to a 5:1 gearbox. The output of the gearbox is connected to a linear stage actuated by a lead screw. The screw has 1 start, and 18 threads per inch. If the handle is turned 1 full turn, most nearly how far does the stage move?
+A. 3.6 in
+B. 0.278 in
+C. 0.0022 in
+D. 0.011 in
+
+Question ID:1706074
+A 1-in diameter solid brass shaft that is 1 ft in length (E= 16 * 10 ^ 6 * lbf / i n2; v = 0.36 ) is spinning at 120 rpm and transmits 3 hp. What is the angle of twist in the shaft (in radians)?
+A. 0.033
+Β. 0.045
+C. 0.081
+D. 0.027
+
+Question ID:1706075
+A 1-ft long hollow brass shaft with an outside diameter of 1 in and an inside diameter of 0.5 in ( E = 16 * 10 ^ 6 * lbf / i * n ^ 2 v = 0.36 ) is spinning at 120 rpm and transmits 3 hp. What is the angle of twist in the shaft (in radians)?
+A. 0.035
+Β. 0.033
+C. 0.042
+D. 0.027
+
+Question ID:1706082
+A single-row ball bearing carries a radial load of 5.9 kN. The equivalent radial load is 18 kN. The radial and thrust load factors are X = 1 and Y = 1.4 respectively. If only the outer ring rotates (V = 1.2) , what is most nearly the thrust load?
+A. 3.5 kN
+B. 5.0 kN
+C. 7.8 kN
+D. 9.3 kN
+
+Question ID:1706083
+A belt conveyor operates at 120 ft/min. The coefficient of friction between the belt and the pulleys is 0.35. The maximum belt tension is 750 lbf. The belt wrap angle on the driving pulley is 240°. What is most nearly the power required to drive the belt?
+A. 0.7 hp
+B. 1.3 hp
+C. 1.7 hp
+D. 2.1 hp
+
+Question ID:1706085
+A gearbox reduction on a large motor is used to drive a sluice gate. The system contains a square-thread power screw that is driven by the gearbox. The power screw has a mean diameter of 4 in, a pitch of 0.75 in, and 1 start. The coefficient of friction for all mating surfaces of the vertical screw is 0.15, and the friction of the gearbox and collar is zero. The gearbox ratio is 4 to 1, and the force required to lift the sluice is 25,000 lbf. What is the output torque required for the motor?
+A. 2,700 in-lbf
+B. 5,200 in-lbf
+C. 7,500 in-lbf
+D. 10,600 in-lbf
+
+Question ID:1706086
+All gears in the same gear train mesh must have the same ________ Select all that apply.
+☐A. diameter
+☐B. pitch-line velocity
+☐C. root fillet radius
+☐D. diametral pitch
+☐E. module
+☐F. center-to-center distance
+
+Question ID:20251012
+Back to Reports page
+A differential band brake is used to decelerate a rotating drum with a non-uniform tension distribution. The drum has a diameter of 12 in, and the band wraps around 270° of its circumference. The coefficient of friction between the band and the drum is 0.25, and the band width is 4 in. The brake system is configured such that the tight side
+tension is 200 lb, and the slack side tension is 70 lb. What is the torque provided by the band brake?
+A. 225 lb-in
+B. 780 lb-in
+C. 350 lb-in
+D. 425 lb-in
+
+Question ID:706073
+A 1-in diameter solid brass shaft ( E = 16 * 10 ^ 6 * lbf / i * n ^ 2 ; v = 0.36 ) spinning at 120 rpm transmits 3 hp. What is the shear stress in the outer surface of the shaft?
+A. 8,039 lb/in²
+B. 9,082 lb/in²
+C. 5,041 lb/in²
+D. 4,022 lb/in²
+
+Question ID:91704042
+A motor spinning at 7,200 rpm and producing 3 HP drives the smaller pulley of the system shown below. Assuming a factor of safety of 3, and a 0.125-in-wide key with a yield strength of 40 ksi, how long should the key be on the shaft of the larger pulley?
+A. 3.91 in
+B. 0.032 in
+C. 0.112 in
+D. 0.25 in
+
+Question ID:91706072
+A leadscrew has the characteristics listed below. It is used to raise a stage vertically. A motor turns the screw 30 revolutions. Most nearly, how far did the stage travel?
+mu = 0.25
+dm = 2.5in
+1 = 0.375in
+Accuracy = +/- 0.0025 in/ft
+A. 373 in to .377 in
+B. 11.248 in to 11.252 in
+C. 106.664 in to 106.67 in
+D. 28.119 in to 28.131 in
+

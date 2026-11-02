@@ -1,0 +1,226 @@
+Question ID:1701011
+A pipe company has a process producing pipe couplings. Couplings must meet the following specification: Diameter 0.75 in +/- 0.005 in. Five samples of five couplings each are taken from the production line and the results are shown below. Determine how many samples fall outside the control limits of the average chart.
+
+A. 0
+B. 1
+C. 2
+D. 3
+
+Question ID:1701012
+A factory has 25 samples taken of a cement-making process. Each sample had 9 items in it. The sum of the sample means is 125.48 lb, and the sum of the sample ranges is 8.21 lb. Which of the following lists the UCL and LCL of the average chart?
+Α. 5.13; 4.91
+Β. 13.23; 3.19
+C. 133.69; 117.27
+D. 130.50; 120.46
+
+Question ID:1701013
+For the sample data set shown, the median and standard deviation are, most nearly:
+
+Α. 5.164; 0.0792
+Β. 5.136; 0.0776
+C. 5.136; 0.0792
+D. 5.164; 0.0776
+
+Question ID:1701024
+In the figure below, the flatness tolerance of the flat plate is most nearly:
+
+A. 0.002
+B. 0.003
+C. 0.004
+D. 0.005
+
+Question ID:1703006
+Consider that 304 stainless steel with an a+Fe3C (carbide) composition is manufactured with 0.018% carbon by weight. If a sample of the 304SS is heated until it melts, and is then air-cooled, at what temperature does a-Fe (ferrite) begin to form?
+A. 1333°F
+B. 1610°F
+C. 1674°F
+D. 2640°F
+
+Question ID:1703012
+Charpy V-notch test data is shown in the chart below. Which combination of temperature and impact energy is most likely to result in a ductile fracture?
+
+A. 0° C, 10 J
+B. 50° C, 50 J
+C. 70° C, 90 J
+D. 70° C, 20 J
+
+Question ID:1703013
+A steel bar with a diameter of 2.0 in and a length of 18 in is mounted between two rigid walls as shown below. The coefficient of thermal expansion is 6.5 x 10 in (in °F) and E = 30 * 10 psi. The bar was installed at a temperature of 68° F. The temperature of the bar is raised to 350° F. The stress in the steel bar at the higher temperature is most nearly:
+
+A. 55,000 psi
+B. 65,000 psi
+C. 75,000 psi
+D. 85,000 psi
+
+Question ID:1703024
+An analytical curve $\sigma(\varepsilon)$ has been fit to the stress-strain response of a metal (Young's modulus, $E = 200\text{ GPa}$) in a tensile test. Based on this function, what is the $0.2\%$ yield strength of the material?
+
+\begin{equation}
+\sigma(\varepsilon) = E \times \frac{\varepsilon}{1 + \varepsilon} \quad \text{(1)}
+\end{equation}
+
+A. 8.75 MPa
+B. 40 MPa
+C. 400 MPa
+D. 8750 MPa
+
+Question ID:1703026
+Which of these mechanical properties can be directly measured by a torsion test? Select all that apply.
+☐A. Bulk modulus
+☐B. Elastic modulus
+☐C. Poisson's ratio
+☐D. Shear modulus
+☐E. Tensile strength
+☐F. Shear strength
+
+Question ID:1703032
+Which of the following is not an example of a hardness test?
+A. Brinell hardness test
+B. Rockwell hardness test
+C. Vickers hardness test
+D. Poisson hardness test
+
+Question ID:1708001
+A 100-in long composite I-beam is subject to uniform pressure of 250 psi on its top face and is fixed on both ends. A stress analyst needs to conduct deflection analysis in finite element analysis (FEA) software. The analyst took advantage of symmetrical boundary conditions on a quarter symmetric model of the I-beam. The analyst decided to model the beam using 3D brick (solid) elements rather than shell elements. What boundary and loading
+conditions accurately represent the quarter symmetric I-beam?
+
+A. Face 1: U1, UR2, UR * 3 = 0 ; Face 2: U3, UR1, UR * 2 = 0 ; Face 3: U1, U2, U3, UR1, UR2, UR * 3 = 0 ; pressure: 62.5 psi
+B. Face 1: U * 1 = 0 Face 2: U * 3 = 0 Face 3: U1, U2, U * 3 = 0 pressure: 62.5 psi
+C. Face 1: U1, UR2, UR * 3 = 0 Face 2: U3, UR1, UR * 2 = 0 ; Face 3: U1, U2, U3, UR1, UR2, UR * 3 = 0 ; pressure: 250 psi
+D. Face 1: U * 1 = 0 Face 2: U * 3 = 0 ; Face 3: U1, U2, U * 3 = 0 ; pressure: 250 psi
+
+Question ID:1708002
+AGMA is the trade group of companies involving power transmission components. What does the acronym AGMA stands for?
+A. Assistant General Manager for Administration
+B. Association of Greater Manchester Authorities
+C. American Gear Manufacturers Association
+D. American Guild of Musical Artists
+
+Question ID:1708005
+Strain gauges are common instruments used to measure the strain being experienced by a member. Sometimes the strain is not the significant parameter of interest, but rather the stress is the desired value. Strain gauges allow the stress to be determined via which relationship?
+A. Conservation of mass
+B. D'Alembert's principle
+C. Hooke's law
+D. Euler's buckling formula
+
+Question ID:1708006
+Given the chart below, which quenching media material should be used to quickly quench a high-carbon steel from austenite to martensite?
+A. Air
+B. Oil
+C. Water
+D. Brine
+
+Question ID:1708007
+Stress-relief of steels through heat treatment is a common practice in industry. Which of the following heat treatment techniques best fits the following description:
+This process attempts to change martensite to pearlite and generally is used to produce softer and tougher steel.
+A. Tempering
+B. Normalizing
+C. Blue embrittlement
+D. Annealing
+
+Question ID:1708011
+Which of the following non-destructive evaluation (NDE) methods best fits the following description:
+Mechanical vibrations are induced via a piezoelectric transducer. The transducer needs to be in contact with the workpiece (an adhesion gel may be applied on the surface prior to contact.) The mechanical vibrations propagate waves through the workpiece. The waves are then either reflected or scattered due to internal defects. The results can be interpreted and shown on a screen or a meter.
+A. Magnetic particle testing (MPT)
+B. Eddy-current testing (ECT)
+C. Ultrasonic testing (UT)
+D. Liquid penetrant testing (PT)
+
+Question ID:1708014
+2024 aluminum sheets fastened to a structure via steel rivets are found to experience corrosion when the structure is subjected to slush composed of snow and road salt. The corrosion is localized almost entirely at the fastener locations. The corrosion type is most likely which of the following?
+A. Pitting
+B. Stress corrosion
+C. Uniform corrosion
+D. Galvanic corrosion
+
+Question ID:1708015
+Which of the following elements cannot be used as a sacrificial anode in a cast iron boiler system to prevent corrosion in the cast iron boiler tank?
+A. Magnesium
+B. Zinc
+C. Cadmium
+D. Copper
+
+Question ID:1708016
+Match each reaction type with the start and result phases:
+
+A. A → 4, B → 3, C → 2, D → 1
+B. A → 3, B → 4, C → 2, D → 1
+C. A → 4, B → 3, C → 1, D → 2
+D. A → 4, B → 2, C → 3, D → 1
+
+Question ID:1708021
+A cast steel part must be inspected at the foundry for cracks. The foundry needs to be able to locate surface and sub surface cracks in a low-cost and effective manner that can work on small parts. The most likely choice of nondestructive test method is which of the following?
+A. Dye penetrant
+B. Magnetic particle
+C. X-ray
+D. Ultrasonic
+
+Question ID:1708025
+A piston is held on to a connecting rod with a wrist pin. The hole in the connecting rod is to be 10 mm in diameter nominally. Assuming a locational clearance fit is required, what is the maximum radial clearance between the hole and shaft?
+A. 0.014 mm
+B. 0.035 mm
+C. 0.012 mm
+D. 0.008 mm
+
+Question ID:1708030
+A machine design requires a sliding mechanism with accurate location and minimum play. The nominal size of the hole and shaft interface required is 3.25 inches. The maximum hole size and minimum shaft size respectively are:
+Α. Η: 3.2500 in S: 3.2500 in
+B. H: 3.2528 in S: 3.2478 in
+C. H: 3.2518 in S: 3.2476 in.
+D. H: 3.2522 in S: 3.2472 in.
+
+Question ID:1708031
+Generally speaking, Finite Element Stress analysis requires that materials be isotropic to best line up with the evaluation because
+A. these are the only materials used in fields that design using FEA.
+B. calculations of internal stresses are simplified when a constant spring constant is used between nodes.
+C. isotropic materials are the best conductors of heat
+D. polytropic materials do not exist.
+
+Question ID:1708032
+Why would an engineer use dye penetrate over magnetic particle inspection to look for cracks in simple unobstructed weldments of aluminum support structures?
+A. Parts would need to be cleaned for inspection otherwise
+B. The inspection method is very economical
+C. The parts are non magnetic
+D. Inspection speed is an important consideration
+
+Question ID:1708033
+Surface hardening is used instead of through hardening on steel parts to:
+A. have parts weigh less
+B. increase the magnetism of the part.
+C. hold tighter part tolerances.
+D. have parts that still have ductile inner structures.
+
+Question ID:1708034
+Noncritical stresses on stress plot produced by FEA software for a designed part is best validated by:
+A. thermal imaging cameras recording the parts in use
+B. strain gages mounted to the part recording outputs while in use.
+C. dye penetrant inspection of parts after use.
+D. weighing the parts after use.
+
+Question ID:1708035
+After a steel is heated and the required grain structure is achieved, the process by which the desired grain structure is kept in place after heat is no longer applied is called:
+A. cold working.
+B. annealing
+C. quenching.
+D. roll forming.
+
+Question ID:1708036
+Strain gauges can be used to measure:
+A. force, pressure, tension.
+B. force, pressure, temperature.
+C. magnetism, tension, weight.
+D. force, light intensity, weight.
+
+Question ID:1708038
+An engineer is seeking a low-cost nondestructive test for delamination of nonmetal composite parts. The best testing method to recommend for this application would be:
+A. magnetic particle inspection.
+B. acoustic impact testing.
+C. X-ray radiology.
+D. fluoroscopy.
+
+Question ID:20251212
+What instrument should be used to measure the backlash of a solid, carbon steel crankshaft in its housing?
+A. Micrometer
+B. Dial indicator
+C. Measuring tap
+D. Plasti-gauge

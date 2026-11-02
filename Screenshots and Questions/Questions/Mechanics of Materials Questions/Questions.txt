@@ -1,0 +1,420 @@
+Question ID: 01704041
+A hollow rod has an inner radius,r,, and an outer radius,r₂, If what percentage of torque can the shaft carry in comparison to a solid shaft with the same outer diameter? r_{1} = r_{2}/2
+Ο Α. 27%
+Ο Β. 55%
+OC. 78%
+OD. 94%
+
+Question ID: 1701007
+Given the following configuration of a long column, which value of effective length should be used for the effective slenderness ratio?
+A. L_eff = 0.8L
+B. L_eff=2.1L
+OC. L_eff=L
+D. L_eff 0.65L
+
+Question ID: 1701025
+Failure will occur when a principal stress equals the strength of the material when using which of the following?
+A. Coulomb-Mohr Theory
+B. Distortion-Energy Theory
+OC. Maximum-Shear-Stress Theory
+OD. Maximum-Normal-Stress Theory
+
+Question ID: 1702035
+A torque is applied to a stepped steel shaft of length 4 m. If one section of the shaft is 1 m long with diameter 5 cm and the remaining length has a diameter of 10 cm, what is the angle of twist across the length of the shaft under a 2 kN-m loading?
+A. 0.05 degrees
+OB. 0.2 degrees
+OC. 2.8 degrees
+OD. 7.1 degrees
+
+Question ID: 1703002
+Determine the unknown material in which the cube of material, seen below, is the result of experiencing a shear stress of 1.86 Mpsi (where 5a = 6b = 2c ) .
+O A. Steel
+B. Aluminum
+OC. Brass
+OD. Copper
+
+Question ID: 1703013
+A steel bar with a diameter of 2.0 in and a length of 18 in is mounted between two rigid walls as shown below. The coefficient of thermal expansion is 6.5 x 10 in/(in °F) and E = 30 * 10 ^ 6 psi. The bar was installed at a temperature of 68° F. The temperature of the bar is raised to 350° F. The stress in the steel bar at the higher temperature is most nearly:
+OA. 55,000 psi
+OB. 65,000 psi
+OC. 75,000 psi
+D. 85,000 psi
+
+Question ID: 1703019
+A railroad is using continuously welded rail. Sections of rail are made 1 mi long. If the section of rail is in a climate with an average high of 84°F and an average low of 18°F, how much room for expansion must be accounted for between the rails? The rails are made of steel.
+A. 11 in
+OB. 15 in
+OC. 30 in
+OD. 45 in
+
+A 1 in diameter 6061 aluminum rod that is 36" long is placed between two supports, as shown in Figure 1. There is no gap between the rod ends and the support. The rod is at an ambient temperature of 65°F. What value is the closest to the temperature that the rod would need to be heated to for it to yield in compression?
+Assume that the rod is supported to prevent buckling.
+Figure 1
+OA. 100°F
+OB. 200°F
+OC. 350°F
+OD. 500°F
+
+Question ID: 1703022
+A 0.25 in diameter 304 stainless steel rod must be inserted into a gap 1.0000" wide. The steel rod is currently 1.0005" wide. If the steel is at an ambient temperature of 65 F, the temperature to which it must be cooled to fit the gap is most nearly?
+OA. -13° F
+OB. 13° F
+O C. 32° F
+OD. 52° F
+
+Question ID: 1704005
+A long column that is fixed to the ceiling is pinned at the ground in a way that restricts rotation of the column at the ground about the y axis, while there is free rotation about the pin and x axis. What is the ratio of the cross-sectional dimensions b:h that would satisfy the condition that a critical load P would theoretically allow for both buckling in the x or buckling in the y with the same magnitude of force?
+ΟΑ. 1.2
+OB. 1.4
+OC. 1.6
+OD. 2.2
+
+Question ID: 1704009
+Determine the critical buckling stress for a 23-ft-long column that is fixed at the top, pinned at the bottom, and supported by rollers at a point between the two ends if an axial force is acting on the column on both ends. The column is made from aluminum and has a 2-in, square cross section.
+
+OA. 880 psi
+OB. 2.3 ksi
+OC. 1.35 ksi
+OD. 3.8 ksi
+
+Question ID: 1704010
+An 8-m-long rod is acted upon by a 25 kN tensile load. While still in the elastic limit, the member experiences a strain of 0.375. Determine the strain energy.
+O A. 2,800 Nm
+OB. 3,125 Nm
+OC. 3,400 Nm
+OD. 37,500 Nm
+
+Question ID: 1704013
+Every 10 seconds, a mechanical component experiences two fully reversed stress cycles at 55 ksi and five fully reversed cycles at 50 ksi. Two fatigue tests on this material gave the following results:
+Fatigue stress, Sf 40 ksi 60 ksi
+Number of Cycles 106 103
+How long can the component be expected to operate before failure?
+A. 160 min
+OB. 240 min
+OC. 320 min
+D. 480 min
+
+Question ID: 1704014
+Estimate the Goodman equivalent stress for a rod experiencing an alternating stress state of max = 20 ksi and omin 10 ksi. Assume the rod is made of A572 steel ( S_{y} = 50ksi, S_{u} = 65ksi ) and there is a stress concentration factor of K_{f} = 1.5
+A. 15.0 ksi
+OB. 17.5 ksi
+OC. 25.4 ksi
+OD. 45 ksi
+
+Question ID: 1704016
+A 12-ft tall column is loaded axially and is connected approximately in a fixed-fixed configuration. Estimate the maximum buckling load. Assume that the column is circular with a 6-in diameter, is made of A36 steel, and the recommended design effective length factor is used.
+OA. 890 kip
+OB. 940 kip
+OC. 990 kip
+OD. 2,080 kip
+
+Question ID: 1704018
+A 3-ft-long, solid steel shaft has a diameter of 1 in. The shaft is subjected to a torque of 1,000 ft-lb. What percent would the angle of twist increase if the shaft were changed to a tube with a 1.0-in outer diameter and 0.5-in inner diameter? The shear modulus of the shafts is 11.5 * 10 ^ 6 * psi
+Ο Α. 6.5%
+Ο Β. 12%
+OC. 20%
+OD. 50%
+
+Question ID: 1704022
+Find the factor of safety using AISC guidelines with Euler's formula for a column with the following properties: P = 65000 lbf, A = 16.8i * n ^ 2 L = 20ft , K = 2.1 r = 2.41ir , E = 29000 ksi, Oyield = 42,000 psi, and v
+= 0.30. The column's base is fixed and its top is free in rotation and translation.
+Ο Α. 6.77
+OB. 1.69
+OC. 1.50
+OD. 3.00
+
+Question ID: 1704023
+A point in a member experiences the following principle stresses: sigma_{1} = 30000 psi, sigma_{2} = - 12000 psi, and sigma_{3} = 1000psi What is the factor of safety according to von Mises stress if the yield stress of the member is 50 ksi?
+Ο Α. 1.67
+OB. 2.63
+OC. 7.72
+OD. 1.34
+
+Question ID: 1704024
+A ø2-in solid circular shaft is subjected to a constant torque of 450 ft-lbf. What is the shear stress due to torsion in the shaft?
+O A. 287 psi
+OB. 3,440 psi
+OC. 2,700 psi
+OD. 5,400 psi
+
+Question ID: 1704030
+A rod of A36 steel is placed in tension. The rod is stretched until it reaches plastic deformation. If the rod was originally 5.00 in in length, what value is closest to the percent elongation just prior to yielding?
+Ο Α. 0.05%
+ΟΒ. 0.12%
+OC. 0.5%
+OD. 1%
+
+Question ID: 1704031
+A steel sample of L2 tool steel experiences cyclical loading with a max stress of 75 ksi and a minimum of 25 ksi. What value is closes to the Goodman equivalent stress? Ignore any modifying endurance factors.
+O A. 25 ksi
+OB. 30 ksi
+O C. 44 ksi
+OD. 75 ksi
+
+Question ID: 1704032
+A steel cable is attached to a wall and then run over a pulley, as shown in Figure 1. The length of the cable from the wall to the top of the pulley is 25 ft. The diameter of the pull is 5 in. The cable diameter is 0.125 in. The weight is 300 lbf. What value is closest to the rotation of the pulley in degrees due to cable elongation? Assume that E = 29000000psi
+OA. 2
+B. 4
+OC. 6
+OD. 8
+
+Question ID: 1704035
+A shaft transfers power from a motor to a gear-set. An engineer is concerned about the shear strength of the shaft. Which modifications, holding all else constant, would increase the safety factor of the design? Select all that apply.
+☐A Decrease the applied torque
+☐B Decrease the shaft radius
+☐C Make the shaft hollow, with the same area
+☐D Change the shaft to be square section of same area
+
+Question ID: 1704036
+Von-Mises equivalent stress is most closely associated with which of the following failure theories/yield surfaces?
+A. Maximum Shear Stress/Tresca
+B. Mohr-Coloumb
+OC. Maximum Distortion Energy
+OD. Maximum Normal Stress
+
+Question ID: 1704038
+Which statement is true about the modulus of elasticity, E?
+A. It is the slope of the stress-strain curve in the linearly elastic region.
+B. It is the ratio of stress to volumetric strain.
+OC. Its value depends only on the temperature of the material.
+OD. It is the same as the rupture modulus.
+
+Question ID: 1704039
+A part of a 3/8-in thick plate is shown below. The plate is subject to a 350-ft-lbf moment load. What is most nearly the maximum equivalent normal stress?
+
+OA. 13,000 psi
+OB. 1,800 psi
+OC. 8,600 psi
+OD. 22,000 psi
+
+Question ID: 1704041
+A hollow shaft has an outer radius of 0.025 m and inner radius of 0.015 m. What is most nearly the largest torque which may be applied if the shear stress is not to exceed 110 MPa?
+OA. 1,700 N-m
+B. 1,100 N-m
+OC. 2,400 N-m
+OD. 4,400 N-m
+
+Question ID: 1704042
+A hollow cylinder has a length of 6 in. The inner and outer radius are 1.5 in and 3 in, respectively, and it is twisted by a torque of 2,000 lb-in. Given shear modulus G = 11,000 psi, what is the angle of twist?
+Α. 0.0091°
+ΟΒ. 0.091°
+OC. 0.523°
+OD. 1.646°
+
+Question ID: 1704043
+A simply supported beam with a cross-section shows a concentrated load F = 10 kN at its center. What is most nearly the maximum bending stress in the beam?
+
+O A. 2,500 kPa
+OB. 2,800 kPa
+OC. 3,200 kPa
+OD. 3,500 kPa
+
+Question ID: 1704044
+A 12 ft long steel member is to be used as a pin-ended column. What is the critical buckling stress for the long column? Assume E = 29000 Kpsi and radius of gyration, r = 2 in.
+A. 55.21 ksi
+OB. 65.21 ksi
+OC. 50.51 ksi
+OD. 72.11 ksi
+
+Question ID: 1704045
+A 26-in bar of aluminum will be replaced at 50°F. The aluminum bar was installed tightly to the rigid adjacent bars. What is the compressive force in between the two adjacent bars at 80°F if the thermal expansion coefficient of aluminum is 12.8 × 10-6/°F? The cross-section of the aluminum bar is 4 in².
+A. 15,500 lbf
+B. 12,020 lbf
+OC. 7,500 lbf
+OD. 20,200 lbf
+
+Question ID: 1704048
+What is the yield safety factor of a 22.25 ft, A36 Steel, 4 in x 4 in, t = 1/2 -in tube column considering ideal conditions on a column having both ends with fixed rotation and fixed translation?
+Ο Α. 1.76
+OB. 1.51
+OC. 1.96
+OD. 2.05
+
+Question ID: 1707039
+A 6-ft square bar is mounted horizontally by two equal fillet welds on each side. The weld is E100 with a height of 0.375 in. Force P is applied vertically to the bar. What allowable load can the weld support per unit length (lbf/in)? (Assume that the shear stress governs)
+
+A. 12,300 lbf/in
+B. 18,400 lbf/in
+OC. 20,400 lbf/in
+D. 25,000 lbf/in
+
+Question ID: 1707040
+A 0.125-in by 10-in rectangular aluminium sheet is welded horizontally with two equal welds on the top and bottom. The weld height is 0.125 in. The allowable stress in the weld is 18 ksi. The aluminium sheet is loaded in tension with a force of 8,000 lbf. What is the factor of safety rounded to the nearest whole number?
+Ο Α. 4.0
+OB. 6.0
+OC. 8.0
+OD. 16.0
+
+Question ID: 1707044
+A bolt with D = 0.5 in and L = 3 in is used to fix a plate as shown in the figure below. If a force of 1,200 lb is applied to the plate and both the bolt and the plate are made of steel (E = 10 * 10 ^ 6) find the total bolt load.
+
+OA. 1,067 lb
+OB. 1,200 lb
+OC. 1,960 lb
+OD. 1,571 lb
+
+Question ID: 1707050
+A steel plate carries an 8,000-lb load and is held in place by four bolts as shown in the figure below. If the maximum allowable shear stress in the bolts is 30,000 psi, the diameter of the bolts must be at least:
+
+A. 0.807 in.
+B. 0.785 in.
+OC. 0.775 in.
+D. 0.697 in.
+
+Question ID: 1707052
+The following 1/2-in bolted connection has an eccentric load (shown). What is, most nearly, the stress in the critical fastener?
+X = 3 in
+V = 1 in
+L = 7.5in
+F = 13, 500ib
+
+O A. 58,000 psi
+OB. 54,000 psi
+O C. 11,000 psi
+O D. 41,000 psi
+
+Question ID: 1707053
+A 3/4-in UNF steel bolt is installed in a rigid joint at the fabrication shop using a snug-tight condition (zero initial preload). After installation, the bolt is fully restrained by the connected members, and any change in temperature is assumed to produce no relative movement of the joint. As a result, all thermal strain induced in the bolt is converted into elastic tensile strain.
+When the assembly arrives at the installation site, the bolt is measured to have a tensile preload of 3,125 lbf due solely to the temperature change between the fabrication shop and the site.
+Neglect joint flexibility, relaxation, and any preload resulting from tightening.
+Determine the magnitude of the temperature difference between the fabrication shop and the installation site,
+OA. 44.4° F
+OB. 32.6° F
+OC. 53.1°F
+OD. 26.2 F
+
+Question ID: 1708013
+For the following typical fatigue test plot (S-N curve), which point marks the endurance limit (Se') of the material?
+A. Point 1
+B. Point 2
+OC. Point 3
+OD. Point 4
+
+Question ID: 1708037
+A steel cylinder with a diameter of 1.25 inches when unstressed is tensile tested and necks down to 0.975 inches in diameter before breaking. The reduction in cross-sectional area of the material by percentage is
+Ο Α. 5%.
+ОВ. 20%.
+OC. 32%.
+OD. 40%.
+
+Question ID: 2021032
+Which of the following formulas represents the axial stress?
+
+A \sigma = \frac{P}{A}
+B \sigma = \frac{P}{L}
+C \sigma = \frac{A}{P}
+D \sigma = \frac{L}{P}
+
+Question ID: 20250146
+True or False: Shear stress is highest at the surface of a beam under transverse loading.
+A. True
+B. False
+
+Question ID: 20251031
+True or False: In axial loading, the stress is uniform across the cross-section of the material.
+A. True
+OB. False
+
+Question ID: 20251033
+True or False: In shear loading, the material typically fails by shear fracture, where the material breaks along a plane of maximum shear stress.
+A. True
+B. False
+
+Question ID: 20251034
+
+Which of the following formulas calculates the shear stress ($\tau$) in a material?
+
+A \tau = \frac{V}{A}
+B \tau = \frac{A}{V}
+C \tau = \frac{F}{A}
+D \tau = \frac{L}{A}
+
+Question ID: 20251035
+True or False: The neutral axis of a bending beam experiences no bending stress.
+A. True
+B. False
+
+Question ID: 20251036
+True or False: Buckling occurs more readily in short, thick columns than in long, thin columns.
+A. True
+B. False
+
+Question ID: 20251037
+Which of the following factors is most important in determining the critical buckling load for a column?
+OA. The column's length
+OB. The column's cross-sectional area
+OC. The material's yield strength
+OD. The column's moment of inertia
+
+Question ID: 20251038
+True or False: The maximum shear stress in a shaft under torsion occurs at the surface of the shaft.
+OA. True
+OB. False
+
+Question ID: 20251039
+True or False: When combined loading occurs, the material's stress must be analyzed by superimposing the effects of each load.
+A. True
+OB. False
+
+Question ID: 20251040
+Which of the following methods is commonly used to analyze combined loading?
+A. Non-linear analysis
+B. Superposition of stresses
+C. Strain gauges
+D. Thermal expansion analysis
+
+Question ID: 20251045
+True or False: A material with a low modulus of elasticity will experience more elongation under the same axial load than a material with a high modulus.
+A. True
+B. False
+
+Question ID: 20251054
+True or False: The bending stress in a beam is directly proportional to the distance from the neutral axis.
+OA. True
+OB. False
+
+Question ID: 20251055
+True or False: The polar moment of inertia (J) is a measure of a body's resistance to torsion.
+A. True
+OB. False
+
+Question ID: 20251056
+True or False: In combined loading, the total stress at any point can be found by summing the individual stresses from each loading condition.
+OA. True
+B. False
+
+Question ID: 20251057
+True or False: Static failure only occurs when a material reaches its yield strength.
+A. True
+B. False
+
+Question ID: 20251058
+Which of the following theories is commonly used to predict static failure under multiaxial stress?
+A. Maximum shear stress theory
+B. Modified Goodman theory
+OC. Von Mises theory
+OD. Maximum-normal-stress theory
+
+Question ID: 20251060
+Which of the following is a common factor that affects fatigue life?
+OA. Thermal conductivity
+OB. Surface finish
+OC. Coefficient of linear expansion
+OD. Density
+
+Question ID: 20251061
+True or False: Thermal stresses are typically higher in materials with higher coefficients of thermal expansion.
+A. True
+B. False
+
+Question ID: 20251115
+What is the primary effect of axial loading on a structural element?
+OA. It causes elongation or compression along the axis of the load.
+OB. It induces bending moments that cause the element to deflect sideways.
+OC. It generates torsional forces that twist the element about its longitudinal axis.
+OD. It primarily produces shear stresses perpendicular to the axis of the member.
+
+Question ID: 2025159
+True or False: Fatigue strength is the maximum completely reversed stress a material can withstand for a specified number of cycles without failing.
+A. True
+OB. False

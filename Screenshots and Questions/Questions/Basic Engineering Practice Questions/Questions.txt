@@ -1,0 +1,532 @@
+Question ID:1701004
+Determine the maximum distance from the edge of the part to the edge of the hole.
+
+Α. 1.2425
+B. 1.2675
+C. 1.2625
+D. 1.2375
+
+Question ID:1701005
+Which one of the following is an example of an extensive property?
+A. Temperature (T)
+B. Mass (m)
+C. Specific volume (v)
+D. Pressure (P)
+
+Question ID:1701006
+Which of the following is not a unitless quantity?
+A. Engineering strain (ε)
+B. Specific gravity (SG)
+C. Coefficient of static friction (μς)
+D. Polar moment of inertia (J)
+
+Question ID:1701010
+The following symbol is found on a surface of a drawing for a specific part that a foundry intends to produce. Based on this symbol how many inches must the foundry overcast this surface to eventually have it machined down to the correct size?
+A. 0.12
+B. 0.18
+C. 0.21
+D. 0.24
+
+Question ID:1701015
+A steel alloy has a fracture toughness of 80 ksiin This can be approximated in SI units as:
+A. 90Pa/sqrt(m)
+B. 90kPa/sqrt(m)
+C. 90MPa/sqrt(m)
+D. 90N/sqrt(m)
+
+Question ID:1701016
+A municipality is considering the construction of a parking garage. The construction cost is $5 million, and it will require $1 million of maintenance every 5 years during its 20-year lifespan. At the end of its life, demolition is expected to cost $5 million. Revenue from parking permits is projected to be $750,000 per year for the first decade and $1.2 million per year for the second decade. What is the net present value of this project given a discount rate of 5%?
+A. $2.5 million
+B. $2.7 million
+C. $6.3 million
+D. $6.5 million
+
+Question ID: 1701017
+An investor pays $95 to buy a bond that pays $100 at maturity in 10 years. The investor also receives $2 per year in interest payments. What is the investor’s annualized rate of return?
+ A. 1.8%
+ B. 2.0%
+ C. 2.4%
+ D. 2.6%
+
+Question ID:1701019
+What is the maximum amount of slack (days) of activities in the following project workflow?
+
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\textbf{Activity} & \textbf{Duration} & \textbf{Early Start ($ES$)} & \textbf{Early Finish ($EF$)} & \textbf{Late Finish ($LF$)} & \textbf{Late Start ($LS$)} & \textbf{Slack ($LF - EF$)} \\ \hline
+\textbf{A} & 2 & 0  & 2  & 2  & 0  & \textbf{0} \\ \hline
+\textbf{B} & 1 & 2  & 3  & 5  & 4  & \textbf{2} \\ \hline
+\textbf{C} & 3 & 2  & 5  & 5  & 2  & \textbf{0} \\ \hline
+\textbf{D} & 4 & 3  & 7  & 12 & 8  & \textbf{5} \\ \hline
+\textbf{E} & 2 & 3  & 5  & 7  & 5  & \textbf{2} \\ \hline
+\textbf{F} & 2 & 5  & 7  & 7  & 5  & \textbf{0} \\ \hline
+\textbf{G} & 1 & 7  & 8  & 13 & 12 & \textbf{5} \\ \hline
+\textbf{H} & 3 & 7  & 10 & 10 & 7  & \textbf{0} \\ \hline
+\textbf{I} & 2 & 7  & 9  & 10 & 8  & \textbf{1} \\ \hline
+\textbf{J} & 3 & 10 & 13 & 13 & 10 & \textbf{0} \\ \hline
+\textbf{K} & 2 & 10 & 12 & 17 & 15 & \textbf{5} \\ \hline
+\textbf{L} & 4 & 13 & 17 & 17 & 13 & \textbf{0} \\ \hline
+\textbf{M} & 1 & 17 & 18 & 18 & 17 & \textbf{0} \\ \hline
+\end{tabular}
+
+A. 5
+B. 4
+C. 3
+D. 2
+
+Question ID:1701023
+Under this condition, the part is dimensioned to yield a higher weighing part while remaining within tolerance.
+A. Statistical Tolerance Condition
+B. Maximum Material Condition
+C. Projected Tolerance Condition
+D. Least Material Condition
+
+Question ID:1701027
+A piece of machinery has a purchase value of $12,000 and a salvage value of $2,000 after 5 years. Calculate the book value on year 4 using the straight-line method of depreciation, d = 15%
+A. $4,000
+B. $2,000
+C. $10,000
+D. $2,400
+
+Question ID:1701028
+A freshman engineering student is saving for a down payment on a new car after graduation. If the interest rate is 6% and the student is depositing $2,000 per year, how much will the student have at graduation in 5 years?
+A. $11,270
+B. $11,274
+C. $10,974
+D. $11,276
+
+Question ID:1701029
+A freshman engineering student would like to have $10,000 for a down payment on a new car after graduation. If the interest rate is 6%, how much should be deposited per year to have enough money at graduation in 5 years?
+A. $1,774
+B. $2,453
+C. $1,798
+D. $1,621
+
+Question ID:1701030
+A W-beam is required to support a moment of 250 ft-kip. The beam must be equal to or less than 17 in tall. Using a factor of safety of 1.67, what is the lightest beam that may be used? Assume the beam is made of A992 material with yield strength of 50 ksi.
+A. W12 × 79
+B. W14 × 68
+C. W16 × 40
+D. W16 × 67
+
+Question ID:1701031
+Which AISC channel from the list below has the following properties?
+Depth: 101.6 mm
+2 Area: 1,374 mm²
+Weight: 10.8 kg/m
+A. C 100 × 10.8
+В. С 10 × 15.3
+C. C 4 × 5.4
+D. C 4 × 7.25
+
+Question ID:1701032
+Steel slabs measuring 1,300 mm x 2,500 mm × 100 mm are used as test weights for the load testing of an overhead crane. Assume the slabs are made of structural steel with a density of 7,850 kg/m³. The crane has a rated capacity of 10 metric tonnes (10,000 kg) and must be load tested with a total test load between 100% and 110% of its rated capacity, in accordance with the applicable testing requirements. Determine the minimum whole number of steel slabs required to satisfy the load-test requirement.
+A. 1
+B. 4
+C. 6
+D. 8
+
+Question ID:1701033
+The following equation is the definition of what geometric property?
+\frac{I}{A}
+A. The second moment of area
+B. The radius of gyration
+C. The section modulus
+D. The parallel axis theorem
+
+Question ID:1701034
+A securement plan is being developed for a roadster, which is to be rocketed into orbit. The maximum expected acceleration force is not expected to exceed 35 m/s². The roadster weighs 1,250 kg. Assuming a factor of safety of 1.50, what is the maximum force that should be accounted for in the securement plan?
+A. 43.75 kN
+B. 65,625 kg
+C. 14,766 lbf
+D. 9,835 lbm
+
+Question ID:1701036
+Basic Engineering Practice (Interpretation of Technical Drawings)
+The above graphic is part of a hydraulic schematic. What is the meaning of the symbols shown in the schematic?
+A. An electric motor and an oil pump
+B. A gearbox and an oil motor
+C. A combustion engine and an air compressor
+D. An electric air compressor
+
+Question ID:1701038
+What is the radius of gyration for a member with the below properties?
+Area = 11.7 in²
+Height = 11.9 in
+I_{x} = 307i * n ^ 4
+S_{x} = 51.5i * n ^ 3
+Z_{x} = 57i * n ^ 3
+A. 26.2 in
+B. 5.95 in
+C. 5.12 in
+D. 3.42 in
+
+Question ID:1702042
+For the rectangle shown, the radius of gyration rx with respect to its base is:
+A. $r_x = \frac{h}{\sqrt{7}}$
+B. $r_x = \frac{h}{\sqrt{3}}$
+C. $r_x = \frac{h}{\sqrt{8}}$
+D. $r_x = \frac{h}{\sqrt{5}}$
+
+Question ID:1703002
+Determine the unknown material in which the cube of material, seen below, is the result of experiencing a shear stress of 1.86 Mpsi (where 5a = 6b = 2c ).
+A. Steel
+B. Aluminum
+C. Brass
+D. Copper
+
+Question ID:1703003
+What primary alloying ingredients comprise AISI 4340 steel?
+A. C 0.4%, Ni 1.8%, Mo 0.25%
+B. C 4%, Cr 0.5%, Mo 0.25%
+C. C 4%, Ni 1.8%, Cr 0.95%, Mo 0.25%
+D. C 0.4%, Ni 1.8%, Cr 0.50%, Mo 0.25%
+
+Question ID:1703009
+The stress-strain curves of four materials are shown below. Which material would be best described as strong and tough?
+A. I
+B. II
+C. III
+D. IV
+
+Question ID:1703010
+A typical stress-strain curve for steel is shown. Indicate the point that is closest to the yield point.
+A. I
+B. II
+C. III
+D. IV
+
+Question ID:1703014
+A material has been tested, and the engineering stresses and percent strain at various points are shown in the following table. What is most nearly the elastic modulus?
+A. 30 * 10 ^ 6 psi
+B. 24.8 * 10 ^ 6 psi
+C. 17.5 * 10 ^ 6 psi
+D. 3 * 10 ^ 6 psi
+
+Question ID:1703015
+A steel bar that is 6.0 in long with a diameter of 0.75 in is compressed by an axial load of 50,000 lb. The uncompressed cross-sectional area is 0.442 in². The material has a modulus of elasticity of 30 * 10 ^ 6 * lb / i * n ^ 2 , and a Poisson's ratio of 0.30. The compressed cross-sectional area is most nearly which of the following?
+A. 0.442 in²
+B. 0.443 in²
+C. 0.445 in²
+D. 0.447 in²
+
+Question ID:1703016
+A steel test specimen is loaded with a force that results in a stress higher than the yield point, but less than the ultimate strength. The specimen is then unloaded. The residual strain in the specimen is most nearly:
+A. Zero
+B. Less than the strain under load
+C. Equal to the strain under load
+D. More than the strain under load
+
+Question ID:1703017
+A test specimen is a 6.0-in cylinder with a diameter of 0.75 in. The material has a modulus of elasticity of 28 * 10 ^ 6 psi and a shear modulus of 11.5 * 10 ^ 6 * psi The specimen is subjected to a compressive load, which reduces the length by 0.020 in. What is the increase in diameter?
+A. 5.43 * 10 ^ - 4 * in
+B. 3.33 * 10 ^ - 3 * in
+C. 7.23 * 10 ^ - 4 * in
+D. 0.217 in
+
+Question ID:1703018
+Which of the following best describes Poisson's ratio?
+A. The change in gauge length of a specimen (in the direction of the applied stress) divided by its original gauge length.
+B. The ratio of stress to strain when deformation is totally elastic. Also, a measure of the stiffness of a material
+C. Deformation that is nonpermanent that is, totally recoverable upon release of an applied stress
+D. For elastic deformation, the negative ratio of lateral and axial strains that result from an applied axial stress.
+
+Question ID:1703021
+Which of the following AISI-SAE steel grades has a carbon content between 0.20% and 0.55%?
+A. 1017
+B. 902
+C. 4140
+D. 1018
+
+Question ID:1703023
+What value is closest to the true strain of 304 stainless steel at its yield point?
+A. 1 * 10 ^ - 3
+B. 1.2 * 10 ^ - 3
+C. 1.06 * 10 ^ - 3
+D. 1.35 * 10 ^ - 3
+
+Question ID:1703027
+A cube of steel is compressed hydrostatically such that the strain in all directions is epsilon_{x} = epsilon_{y} = epsilon_{z} = 0.2%
+. What is the hydrostatic stress (pressure) within the cube?
+A. 330 MPa
+B. 400 MPa
+C. 1.0 GPa
+D. 1.2 GPa
+
+Question ID:1703029
+What is the conductivity of a 1000ft-, 12-gauge wire (d = 0.0808in) with a resistance of 1Ω?
+A. 2.34 * 10 ^ 6 * S/(in)
+B. 3.25 * 10 ^ 6 * S/(in)
+C. 2.64 * 10 ^ 7 * S/(in)
+D. 2.08 * 10 ^ 6 * S/(in)
+
+Question ID:1703030
+Which of the following describes the property of a material that corresponds with a material's ability to return to its original form after a load has been applied and removed?
+A. Tensile strength
+B. Fatigue
+C. Elasticity
+D. Creep
+
+Question ID:1703031
+Which of the following describes the property of a material that corresponds with how easily a material can be scratched or indented?
+A. Toughness
+B. Hardness
+C. Strength
+D. Durability
+
+Question ID:1703033
+Which of the following is the primary bond that yields a large number of free electrons?
+A. Ionic bond
+B. Covalent bond
+C. Metallic bond
+D. Polar covalent 
+
+Question ID:1703034
+Which of the following describes the property of a material that corresponds with a material's ability to withstand environmental attack and decay?
+A. Corrosion resistance
+B. Capacitance
+C. Thermal conductivity
+D. Density
+
+Question ID:1703035
+Which of the following describes the property of a material that corresponds with susceptibility to being plastically deformed by applying pressure?
+A. Toughness
+B. Strength
+C. Resilience
+D. Malleability
+
+Question ID:1703036
+Which type of material is able to absorb and release strain energy without permanent deformation?
+A. Resilient
+B. Ductile
+C. Tough
+D. Brittle
+
+Question ID:1703037
+Which of the following describes how well a material conducts heat?
+A. Thermal conductivity
+B. Resilience
+C. Density
+D. Electrical conductivity
+
+Question ID:1703038
+A drive shaft for a racecar was machined out of a forged and annealed blank of 4130 steel with a modulus of elasticity of 29 Mpsi. In its annealed state, it has a yield strength of 65 ksi, and tensile strength of 95 ksi. Before final machining, the part is heated back up to ~1,600°F, quenched, and tempered at ~1,000°F. After this, its tensile strength is 150 ksi, and yield strength is 140 ksi. In its quenched and tempered state, what is most nearly its modulus of elasticity?
+A. 42.6 Mpsi
+B. 14.5 Mpsi
+C. 45.8 Mpsi
+D. 29.0 Mpsi
+
+Question ID:1704006
+I. True stress is smaller than engineering stress for compressive forces.
+II. Based on a tensile stress strain curve, the modulus of toughness is larger for the true stress and strain verse the engineering stress and strain.
+Which of the above statements is always true?
+A. Only I is true.
+B. Only II is true.
+C. Both I and II are true
+D. Neither I and II are true.
+
+Question ID:1704038
+Which statement is true about the modulus of elasticity, E?
+A. It is the slope of the stress-strain curve in the linearly elastic region.
+B. It is the ratio of stress to volumetric strain.
+C. Its value depends only on the temperature of the material.
+D. It is the same as the rupture modulus.
+
+Question ID:1708006
+Given the chart below, which quenching media material should be used to quickly quench a high-carbon steel from austenite to martensite?
+A. Air
+B. Oil
+C. Water
+D. Brine
+
+Question ID:1708017
+At what percent-weight carbon and temperature is Iron-Iron carbide completely liquid?
+A. 1% carbon and 1200°C
+B. 1.5% carbon and 1400°C
+C. 4% carbon and 1200°C
+D. 4% carbon and 1000°C
+
+Question ID:1708019
+What material test/mechanical property would be best suited for selecting a steel for use in environments where extreme cold can be a factor?
+A. Endurance limit
+B. Fracture toughness
+C. Charpy impact test
+D. Hardness test
+
+Question ID:1708020
+What material test/mechanical property would be best suited for selecting a steel for Armor plate is that is designed to be resistant to penetration from projectiles:
+A. Fatigue Life
+B. Creep resisitance
+C. Conductivity
+D. Hardness
+
+Question ID:1708022
+A company needs to use a wide-flange beam in an area that is prone to corrosion. It is decided that aluminum of grade 6061-T6 will be used. The dimension of the beam will be identical to a W24 × 68 beam. How much will the new beam weigh if a 7 ft beam is to be used?
+A. 120 lb.
+B. 165 lb.
+C. 250 lb.
+D. 476 lb.
+
+Question ID:1708026
+At assembly, an aluminum locating tool needs to have a steel pin installed in it. The OD of the pin is 3.215 mm. The diameter of the hole is 3.192 mm. What, most nearly, must the minimum temperature of an oven be in order to heat the tool such that the steel pin can be installed without a press? The room where the oven is located has a controlled temperature of 17°C.
+A. 322°C
+B. 550°C
+C. 305°C
+D. 567°C
+
+Question ID:1708029
+Choose the correct methodology of hazard elimination for a process in order of decreasing effectiveness
+A. 1. Design to eliminate the hazard 2. Alert users/operators of hazard via sign 3. Physical guard over hazard 4. Personal protective equipment worn during use/operation
+B. 1. Design to eliminate the hazard 2. Physical guard over hazard 3. Alert users/operators of hazard via sign 4. Personal protective equipment worn during use/operation
+C. 1. Design to eliminate the hazard 2. Personal protective equipment worn during use/operation 3. Physical guard over hazard 4. Alert users/operators of hazard via sign
+D. 1. Personal protective equipment worn during use/operation 2. Design to eliminate the hazard 3. Alert users/operators of hazard via sign 4. Physical guard over hazard
+
+Question ID:20251011
+A uniform 12-ft beam weighing 300 lb is simply supported at both ends. A 600-lb point load is applied 4 ft from the left support. Determine the reactions at the left and right supports.
+Let:
+RA = reaction at the left support
+RB = reaction at the right support
+Note: The beam's weight acts at the center (6 ft from either end).
+A. R_{A} = 500lb
+R_{B} = 300lb
+B. R_{A} = 400lb
+R_{B} = 250lb
+C. R_{A} = 550lb
+R_{B} = 350lb
+D. R_{A} = 600lb
+R_{B} = 400lb
+
+Question ID:20251013
+A mechanical engineer is evaluating two design alternatives for a new production line:
+Option A: Initial cost = $250,000; Annual operating cost = $40,000; Expected life = 10 years
+Option B: Initial cost = $400,000; Annual operating cost = $20,000; Expected life = 10 years
+Assume a discount rate of 8% and no salvage value for either option.
+Using a present worth of costs analysis, compute the total present worth of costs for each option (initial cost plus the present value of the annual operating costs).
+Which of the following values is the lower present worth of costs, and therefore represents the more economical alternative?
+A. $518,403.48
+Β. $578,679.55
+C. $456,233.24
+D. $534,201.74
+
+Question ID:20251015
+A slider moves along a straight guide. Its velocity is v(t) = 3t² - 12t + 9 (unit/sec). Determine the net displacement of the slider from t = 0 to t = 3 sec.
+
+**Numerical Entry Box**
+
+Question ID:20251200
+What is this type of table typically used for?
+A. Failure tree analysis (FTA)
+B. Risk assessment
+C. Failure mode and effects analysis (FMEA)
+D. Process improvement
+
+Question ID:20251205
+Real-world problems are often complex and can incorporate varying fields of engineering and expertise. Passenger safety during a car crash is a problem for which it is difficult to predict strengths and weaknesses. What is one method typically used more than others for taking a problem and breaking it down into smaller, less complex, computable elements to help solve the overall problem?
+A. FEA (finite element analysis)
+B. Crash tests with visual data
+C. Kirchoff theory
+D. Nondestructive testing
+
+Question ID:20251206
+Determine the critical buckling load (Por) of a sch 80 NPS 2 steel pipe column with a length (L) of 5 ft. For boundary conditions, assume pinned-pinned.
+A. 55 * 10 ^ 3 lb
+B. 69 * 10 ^ 3 lb
+C. 581 * 10 ^ 3 lb
+D. 654 * 10 ^ 3 lb
+
+Question ID:20251207
+Determine the critical buckling stress (cr) of a sch. 80 NPS 2 steel pipe column with a length (L) of 5 ft. For boundary conditions, assume pinned-pinned.
+A. 47 kpsi
+B. 53 kpsi
+C. 84 kpsi
+D. 237 kpsi
+
+Question ID:20251208
+See the following excerpt from OSHA Safety and Health Regulations for Construction1926 Subpart L App4 Scaffold Specifications:
+"1926 Subpart L App A(1)(d)
+Guardrails shall be as follows:
+1926 Subpart L App A(1)(d)(i)
+Toprails shall be equivalent in strength to 2-inch by 4-inch lumber; or
+11/4 inch x 1½ inch structural angle iron; or
+1 inch.070 inch wall steel tubing; or 1.990 inch.058 inch wall aluminum tubing.
+1926 Subpart L App A(1)(d)(ii)
+Midrails shall be equivalent in strength to 1 inch by 6 inch lumber; or
+1/4 inch 14 inch x 1½ inch structural angle iron; or
+1 inch.070 inch wall steel tubing; or
+1.990-inch x 0.058-inch wall aluminum tubing.
+1926 Subpart L App A(1)(d)(iii)
+Toeboards shall be equivalent in strength to 1 inch by 4 inch lumber; or
+11/4 inch 1/4 inch structural angle iron; or
+1 inch.070 inch wall steel tubing; or
+1.990 inch x .058 inch wall aluminum tubing.
+1926 Subpart L App A(1)(d)(iv)
+Posts shall be equivalent in strength to 2-inch by 4-inch lumber; or
+1/4 inch x 1/4 inch x 1½ structural angle iron; or
+1inch x .070 inch wall steel tubing; or
+1.990-inch x 0.058-inch wall aluminum tubing.
+1926 Subpart L App A(1)(d)(v)
+Distance between posts shall not exceed 8 feet.
+1926 Subpart L App A(1)(e)
+Overhead protection shall consist of 2 inch nominal planking laid tight, or 3/4-inch plywood.
+1926 Subpart L App A(1)(f)
+Screen installed between toeboards and midrails or toprails shall consist of No. 18 gauge U.S. Standard wire one inch mesh."
+A 1-1/4 in x 1-1/4 in x 2/8 in structural angle iron compliant for use as a guardrail material for use as top rails, midrails, and toeboards?
+A. True
+B.False
+
+Question ID:20251209
+See the following excerpt from OSHA 1910.66: Powered Platforms, Manlifts, and Vehicle-Mounted Work Platforms:
+1910.66(f)(3)(ii)
+Transportable outriggers.
+1910.66(f)(3)(ii)(A)
+Transportable outriggers may be used as a method of suspension for ground rigged working platforms where the point of suspension does not exceed 300 feet (91.5 m) above a safe surface. Tie-in guide system(s) shall be provided which meet the requirements of paragraph (e) (2) of this section.
+1910.66(f)(3)(ii)(B)
+Transportable outriggers shall be used only with self-powered, ground rigged working platforms.
+1910.66(f)(3)(ii)(C)
+Each transportable outrigger shall be secured with a tie-down to a verified anchorage on the building during the entire period of its use. The anchorage shall be designed to have a stability factor of not less than four against overturning or upsetting of the outrigger.
+1910.66(f)(3)(ii)(D)
+Access to and egress from the working platform shall be from and to a safe surface below the point of suspension.
+1910.66(f)(3)(ii)(E)
+Each transportable outrigger shall be designed for lateral stability to prevent roll-over in the event an accidental lateral load is applied to the outrigger. The accidental lateral load to be considered in this design shall be not less than 70 percent of the rated load of the hoist.
+1910.66(f)(3)(ii)(F)
+Each transportable outrigger shall be designed to support an ultimate load of not less than four times the rated load of the hoist.
+1910.66(f)(3)(ii)(G)
+Each transportable outrigger shall be so located that the suspension wire ropes for two point suspended working platforms are hung parallel.
+1910.66(f)(3)(ii)(H)
+A transportable outrigger shall be tied-back to a verified anchorage on the building with a rope equivalent in strength to the suspension rope.
+1910.66(f)(3)(ii)(1)
+The tie-back rope shall be installed parallel to the centerline of the outrigger.
+According to this regulation, what is the design ultimate load an outrigger must be capable of supporting in conjunction with a 1,500-lb rated load hoist?
+A. 4,000 lb
+B. 5,000 lb
+c. 6,000 lb
+D. 7,000 lb
+
+Question ID:20251210
+Consider the two definitions below taken from OSHA 1910.66: Powered Platforms, Manlifts, and Vehicle-Mounted Work Platforms:
+"Primary brake means a brake designed to be applied automatically whenever power to the prime mover is interrupted or discontinued."
+"Secondary brake means a brake designed to arrest the descent of the suspended or supported equipment in the event of an overspeed condition."
+According to these definitions and engineering judgment, which of the two brakes would seem to have been designed for an emergency or loss of power?
+A. Primary brake
+B. Secondary brake
+
+Question ID:20251211
+According to ASTM specifications for steel bolts, which ASTM designation number fits a design constraint of 14-in bolt with a minimum proof strength of 55 kpsi, and minimum tensile strength of 90 kpsi?
+A. A325, type 2
+B. A307
+C. A325, type 3
+D. A449
+
+Question ID:91703029
+Which of the following describes the property of a material that corresponds with resistance to pushing or squeezing?
+A. Capacitance
+B. Brittleness
+C. Compressive strength
+D. Tensile strength
+
+Question ID:91704040
+Which is the correct formula for strain?
+A. $\epsilon = \frac{L + \delta}{L}$
+B. $\epsilon = \frac{L + \delta}{\delta}$
+C. $\epsilon = \frac{\delta}{L + \delta}$
+D. $\epsilon = \frac{\delta}{L}$

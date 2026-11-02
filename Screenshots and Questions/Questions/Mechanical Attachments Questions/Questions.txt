@@ -1,0 +1,424 @@
+Question ID:1704025
+The maximum permissible shear stress to which this fillet weld can be subjected is most nearly:
+A. 7,500 psi.
+B. 27,000 psi.
+C. 30,000 psi.
+D. 67,000 psi.
+
+Question ID:1704026
+A 100-hp motor is spinning at 3,300 rpm. The output shaft of the motor is 1/2 inches in diameter and welded to a large disk. Determine the minimum perimeter fillet weld size required to withstand the torsional sheer stress of the motor output on the disk if the weld is made with an E80XX electrode.
+A. 1/8 in
+B. 3/16 in
+C. 1/4 in
+D. 5/16 in
+
+Question ID:1704033
+The nut on a 1/2 in diameter UNF grade 8 steel bolt is tightened 1.5 rotations from an initial un-stretched grip length of 20 in. What value is closest to the stress in the nominal area of the bolt? Ignore the stress concentrations for this calculation. Assume that E = 29000000psi
+A. 85,000 psi
+B. 109,000 psi
+C. 120,000 psi
+D. 168,000 psi
+
+Question ID:1704034
+What value is closest to the force in Ibf required to shear an ASTM A449 bolt that is 1 1/8 in in diameter through the unthreaded portion of the bolt? Assume that the max shear stress is 60% of the tensile strength.
+A. 62,622
+B. 71,568
+C. 104,370
+D. 119,280
+
+Question ID:1706001
+A rectangular plate is joined by a Ø 0.75 solid pin at the center, which is fixed in all directions. The end of the plates have an acting force of 550lb. Which stress component is the highest stress based on the loading conditions below? Consider all dimensions shown to be in inches.
+A. Bearing stress (Crushing of Rivet or Member)
+B. Shear stress (bolt shearing)
+C. Normal stress (member rupture or tearing)
+D. Shear Tear Out
+
+Question ID:1707001
+Which of the weld symbols indicates the welds shown?
+
+A. *Insert Problem 6 answer A image
+B. *Insert Problem 6 answer B image
+C. *Insert Problem 6 answer C image
+D. *Insert Problem 6 answer D image
+
+Question ID:1707002
+Which of the following weld symbols indicates an all-around fillet weld with a weld throat of most nearly 3/16 in?
+
+A. *Insert Problem 7 answer A image
+B. *Insert Problem 7 answer B image
+C. *Insert Problem 7 answer C image
+D. *Insert Problem 7 answer D image
+
+Question ID:1707004
+Four welded joints are shown in the illustrations below. Each illustrates a type of weld cracking. Which of the illustrations indicates lamellar tearing?
+A. I
+B. II
+C. III
+D. IV
+
+Question ID:1707005
+Two members are clamped by a single M10 fully threaded bolt. The clamped length is 50 mm. The bolt is torqued to 75% of its proof strength, which results in a preload of 50 kN. The tensile area of the bolt is 58 mm², and the modulus of elasticity of the bolt and member materials are 200 GPa. The stiffness of the members is 1.5 times the stiffness of the bolt. A load of 115.5 kN is applied
+to the clamped parts in a direction that directly opposes the clamp load of the bolt. Find the load in the clamped members in this scenario.
+A. 0 N
+B. -20 kN
+C. 40 kN
+D. 100 kN
+
+Question ID:1707006
+Four 7/8-in, SAE Grade 2 bolts that have UNC threads are used to fasten a beam between two columns and support the load P = 3000 lbf, as shown in the following figure, where all dimensions are given in inches. If the bolts are threaded for their entire effective lengths, the factor of safety against yield on the bolt carrying the largest
+load is most nearly:
+A. L11
+B. 4.47
+C. 2.60
+D. 3.54
+
+Question ID:1707008
+A small pressure vessel is created by fillet welding class 300 slip-on flanges, with a bore of 4.57 in, onto a NPS 4 Schedule 40 steel pipe and sealing the ends with class 300 blind flanges as shown in the figure below. All pipe and flanges are made from CSA Z245.1 grade 359 steel (minimum yield stress of 52.1 ksi and ultimate stress of 66.0 ksi). The flanges have eight
+0.75-in UNC studs equally spaced around the circumference of the flanges. Assume the following:
+⚫ a bolt stiffness of 3.75 x 106 lbf/in
+⚫ a joint stiffness of 1.29 × 107 lbf/in
+⚫ a stud preload of 5,000 lbf
+⚫ an internal pressure of 750 psi
+The stress in each stud is most nearly which of the following?
+A. 2,908 psi
+B. 6,475 psi
+C. 16,006 psi
+D. 19,574 psi
+
+Question ID:1707009
+Back to Reports page
+A small pressure vessel is created by fillet welding class 300 slip-on flanges, having a bore of 4.57 in, onto a NPS 4 schedule 40 steel pipe and sealing the ends with class 300 blind flanges as shown in the figure below. All pipe and flanges are made from CSA Z245.1 grade 359 steel (minimum yield stress of 52.1 ksi and ultimate stress of 66.0 ksi). The flanges have eight 0.75-in UNC studs equally spaced around the circumference of the flanges. What is the minimum leg length of an equal-length fillet weld if the shear stress in the weld is not to exceed 40% of yield, assuming an internal pressure of 750 psi and that the welds are made using an E6018 electrode?
+A. 0.035 in
+B. 0.044 in
+C. 0.049 in
+D. 0.062 in
+
+Question ID:1707013
+Which of the following symbols would be used if a part required intermittent welding in the field?
+
+A. *Insert Problem 13 answer A image
+B. *Insert Problem 13 answer B image
+C. *Insert Problem 13 answer C image
+D. *Insert Problem 13 answer D image
+
+Question ID:1707014
+A single lap bolted joint is loaded in tension as shown in the figure below. The plates and bolts have the same properties:
+Shear Strength,S = 8,000 psi
+Tensile Strength, S_{t} = 12000psi
+Bearing Strength, S_{b} = 18000 psi
+Determine the failure load if the joint fails by bolt shear.
+A. 1,220 lbf
+B. 1,178 lbf
+C. 1,324 lbf
+D. 1,417 lbf
+
+Question ID:1707015
+A single lap bolted joint is loaded in tension as shown in the figure below. The plates and bolts have the same properties:
+Shear Strength, S_{s} = 8000 psi
+Tensile Strength, S_{t} = 12000 psi
+Bearing Strength, S_{b} = 18000 psi
+Determine the load at which the joint will first fail (governing failure load).
+A. 1,178 lbf
+B. 3,375 lbf
+C. 9,750 lbf
+D. 10,500 lbf
+
+Question ID:1707016
+What installation torque is required to impart a preload equivalent to 80% of the proof load for a lubricated bolt (1/2-13-UNC-2A)? The bolt head is marked with 6 tics over a 180° arc and the bolt will be in a permanent installation.
+A. 1.3 lbf-in
+B. 1.8 lbf-in
+C. 1,100 lbf-in
+D. 1,800 lbf-in
+
+Question ID:1707017
+A plate is welded to a column flange, as illustrated below, using fillet welds along the width of the plate on both sides. If the plate is 1/2 in thick and 4 in wide, and the weld measures 1/4 in, what stress is developed in the weld from a 25-kip load?
+A. 8.8 ksi
+B. 12.5 ksi
+C. 17.7 ksi
+D. 25 ksi
+
+Question ID:1707018
+Which of the following is not a common failure mode of a riveted joint?
+A. Bearing/crushing
+B. Delamination
+C. Shear tear-out
+D. Tensile rupture
+
+Question ID:1707019
+Three plates are connected in double shear, forming a tension joint. The plates are bonded with a urethane adhesive covering an area of 2 in × 4 in on each interface. Which of the following is a reasonable estimate of the maximum tensile force that the bond can withstand?
+A. 1 kip
+B. 8 kip
+C. 20 kip
+D. 100 kip
+
+Question ID:1707020
+A bolted joint consists of twelve A325 3/4-10-UNC-2A bolts evenly spaced in a 12-in diameter circle, as illustrated. It is eccentrically loaded with a vertical 10,000-lbf load located 5 ft from the center of the bolt group. What is the safety factor relative to yield strength in shear? Use the elastic method.
+A. 1.9
+B. 4.0
+C. 8.2
+D. 15.4
+
+Question ID:1707022
+The above beam is made by gluing four half inch thick plastic bars together. Determine the maximum shear stress in the glue between the beams. Dimensions given are in inches, F = 250 lbf, and the width of the beam is 2 in.
+A. 125 psi
+B. 94 psi
+C. 47 psi
+D. 35 psi
+
+Question ID:1707023
+The head of an SAE bolt has 6 radial tics going 360° around the head. What is the grade of the bolt?
+A. Grade 2
+B. Grade 5
+C. Grade 6
+D. Grade 8
+
+What weld does the above symbol specify?
+A. A 0.25-in single-bevel-groove weld on the arrow side of joint
+B. A 0.25-in single-bevel-groove weld on the other side of joint
+C. A 0.25-in fillet weld on the arrow side of joint
+D. A 0.25-in fillet weld on the other side of joint
+
+Question ID:1707025
+What is the allowable load for the above weld given that the filler material strength = 70 ksi, the width of the plate and each weld = 4 in, and the factor of safety = 2?
+A. 24.8 kip
+B. 49.5 kip
+C. 99.1 kip
+D. 70 kip
+
+Question ID:1707026
+What is most nearly the minimum number of half-inch diameter steel rivets required to withstand a force of 85,000 lbf force on the single shear connection shown below? Assume the rivets are equally spaced and shear failure of the fastener is the relevant failure mode. Rivets have a max shear stress of 35 ksi.
+A. 3
+B. 10
+C. 12
+D. 13
+
+Question ID:1707028
+An 8-bolt flange experiences a 5,000-lbf load. If the flange is twice as stiff as the bolts that fasten it to the pipe, and the bolts are preloaded to 12 kips, what is the load carried by the bolt group in lbf?
+A. 1,666 lbf.
+B. 416 lbf.
+C. 625 lbf.
+D. 1,708 lbf.
+
+Question ID:1707029
+Two 1/2-in thick plates are joined by a rivet. The plates are both made of A36 steel, and the connection is placed in tension by a 50,000-lbf force. What is most nearly the minimum diameter rivet that will not cause a bearing stress failure? Assume no deformation of the rivet.
+A. 2-1/8 in
+B. 2-1/2 in
+C. 2-7/8 in
+D. 3-1/8 in
+
+Question ID:1707031
+Cyanoacrylate glue is used to bond two metal plates to support a hanging load. The plates are positioned such that the glue is loaded vertically in pure shear. One plate is affixed permanently to the ceiling, and a 50 lb weight is hung from the other plate. How much surface area must be covered in glue to achieve a factor of safety of 3? Assume the most conservative numbers
+for glue performance.
+A. 0.10 in²
+B. 0.15 in²
+C. 0.20 in²
+D. 0.25 in²
+
+Question ID:1707032
+A 20 in long, 0.75 in diameter carbon steel rod is placed between an immovable block wall and an L-shaped bracket, as shown in Figure 1. The L-shaped bracket is affixed to the base with a 2.5 in x 2.5 in pad of urethane glue. The bar is then slowly heated. At what temperature increase would the glue most likely separate in
+shear? Assume that the glue is loaded only in shear and that no thermal damage occurs or is transferred to the glue.
+A. 40°F
+B. 55°F
+C. 60°F
+D. 75°F
+
+Question ID:1707033
+As shown in Figure 1, a 4in wide steel plate is adhesively bonded to a steel substrate. Urethane glue with the highest possible peel strength is used for the bond. What is the maximum distributed load F that the adhesive can withstand before peeling? (Ignore the moment effect)
+A. 1.5 lbf/in
+B. 8 lbf/in
+C. 10 lbf/in
+D. 50 lbf/in
+
+Question ID:1707034
+A pair of steel plates are held together by three A307 bolts, each 3/8 in in diameter in a lap joint as shown in Figure 1. The engineer wishes to replace the bolts with an unmodified epoxy adhesive of the highest available strength. What size lap joint will be required to match the shear strength of the mechanical fasteners with a safety factor of 3? Assume that shear yield and that shear area is through an unthreaded shank.
+A. 0.2 in
+B. 0.3 in
+C. 0.5 in
+D. 0.7 in
+
+Question ID:1707035
+The bracket shown in Figure 1 is bonded to the wall with a spray-on rubber modified acrylic glue. Spray coverage is 65% of the bonded area. Assuming the lowest possible lap strength, what value is closest to the greatest load that the bracket can withstand?
+A. 2,000 lbf
+B. 13,300 lbf
+C. 20,400 lbf
+D. 24,000 lbf
+
+Question ID:1707036
+Two solid steel shafts, each with a diameter of 2.5 in, are connected using a cast-iron flanged coupling. The shaft assembly is subjected to a transmitted torque of 720 in-lb.
+The coupling consists of two flanges fastened together by five bolts, equally spaced on a 4-inch bolt circle.
+Assuming the allowable (design) shear stress for the bolts is 8,000 psi, determine the required minimum bolt diameter to safely transmit the applied torque.
+A. 0.125 in
+B. 0.327 in
+C. 0.107 in
+D. 0.053 in
+
+Question ID:1707038
+A solid 70-mm diameter shaft is welded to a flat plate by a 15-mm fillet weld. If the maximum allowable shear stress in the weld material is 90 MPa, the maximum torque that the weld joint can withstand due to twisting of the shaft is:
+A. 2.22 kN-m.
+B. 5.42 kN-m.
+C. 10.74 kN-m.
+D. 7.34 kN-m
+
+Question ID:1707041
+A 0.25-in fillet weld is used to hold two 6-in wide plates together. If a force of 120 lb is applied to the plates as shown in the figure below, which value is closest to the shear stress in the weld?
+A. 113 lb/in²
+B. 120 lb/in²
+C. 108 lb/in²
+D. 117 lb/in²
+
+Question ID:1707047
+A steel plate carries an 8,000-lb load and is held in place by four 0.5-in diameter bolts as shown in the figure below. What is the shear stress in bolt No. 1?
+A. 68,663 psi
+B. 78,090 psi
+C. 57,781 psi
+D. 42,069 psi
+
+Question ID:1707048
+A steel plate carries an 8,000-lb load and is held in place by four 0.5-in diameter bolts as shown in the figure below. Which bolt has the smallest shear stress?
+A. Bolt 1
+B. Bolt 2
+C. Bolt 3
+D. Bolt 4
+
+Question ID:1707049
+A steel plate carries an 8,000-1b load and is held in place by four 0.5-in diameter bolts as shown in the figure below. Find the maximum bolt shear stress.
+A. 68,663 psi
+B. 78,090 psi
+C. 57,781 psi
+D. 42,069 psi
+
+Question ID:1707051
+A lubricated 9/16-in UNF A36 bolt will be reused when the equipment reaches the client's location. Which torque will be required for assembly on the assembly shop floor?
+A. 271 in x lbf
+B. 537 in x lbf
+C. 303 in x lbf
+D. 471 in x lbf
+
+Question ID:1707054
+An 1,150-in-lbf torque was specified for a 1/2-in UNF nonplated steel, black bolt to be permanently assembled at a site. What grade bolt would use the specified torque?
+A. Grade 1
+B. Grade 2
+C. Grade 5
+D. Grade 8.8
+
+Question ID:1707056
+A 3/4-in UNC bolt is lubricated and torqued to 45 ft-lb. The bolt is then stressed in tension by an 8,000-1b load. If sensors on the bolt grip measure the bolt load as 9,000 lbf, which of the following is most nearly the joint coefficient?
+A. 1/8
+B. 1/4
+C. 3/8
+D. 5/8
+
+Question ID:1707058
+Back to Reports page
+A single butt weld is used to connect two plates. Plate 1, which is 2 in wide and 0.625 in thick, is welded edge to edge with plate 2. The grooved butt weld is placed along the width of plate 2 using an E7016 electrode. A tension load of 25 kips is applied on plate 2. Which of the following is most nearly the minimum size of the weld height needed to support this tension load?
+A. 1/8 in
+B. 1/4 in
+C. 3/8 in
+D. 1/2 in
+
+Question ID:1707059
+A polyimide-based adhesive is used to join two sheets of sheet aluminum. The joint has an overlap of 0.5 in. Assuming a minimum lap-shear strength, which of the following is the maximum shear stress per unit width that the joint can sustain?
+A. 500 lb/in
+B. 1,000 lb/in
+C. 1,500 lb/in
+D. 2,000 lb/in
+
+Question ID:1707060
+A single-riveted lap joint is composed of two 3/8-in thick plates that are 10 in wide, along with four rivets equally spaced across the joint. The joint is designed to support a shear load on the rivets. Each rivet's diameter is 1/2 in. The applied shear force is 10,000 lbf. What is most nearly the shear stress in the rivets?
+A. 6 ksi
+B. 9 ksi
+C. 13 ksi
+D. 15 ksi
+
+Question ID:1708010
+Which of the following processes is not a form of arc welding?
+A. Oxyacetylene welding
+B. MIG welding
+C. TIG welding
+D. SMA welding
+
+Question ID:20251041
+True or False: Brazing creates a bond by melting the base materials together.
+A.True
+B.False
+
+Question ID:20251042
+Which of the following is a key advantage of using adhesives in mechanical design?
+A. High temperature resistance
+B. Ability to bond dissimilar materials
+C. Permanent connection
+D. Ability to withstand high shear forces
+
+Question ID:20251043
+True or False: Shackles are primarily used for securing ropes or cables to heavy loads.
+A.True
+B.False
+
+Question ID:20251044
+True or False: Studs are similar to bolts but do not have heads, allowing them to be installed from both sides of an assembly.
+A. True
+B.False
+
+Question ID:20251047
+True or False: A stud is a type of fastener that lacks a head and is threaded at both ends.
+A.True
+B.False
+
+Question ID:20251048
+Which of the following fasteners is used to secure components to concrete or masonry structures?
+A. Bolt
+B. Rivet
+C. Stud
+D. Anchor
+
+Question ID:20251049
+In mechanical assemblies, how does a bolt differ from a screw in typical fastening applications?
+A. A bolt is used with a nut, whereas a screw engages directly with a tapped hole.
+B. A bolt is always stronger than a screw.
+C. A screw requires a nut, whereas a bolt does not.
+D. A bolt has no threads, whereas a screw is fully threaded.
+
+Question ID:20251051
+Which type of fastener is commonly used to create a permanent mechanical joint in thin sheet metal assemblies?
+A. Rivets
+B. Snap rings
+C. Cotter pins
+D. Set screws
+
+Question ID:20251052
+In mechanical assemblies, which component is commonly used to prevent axial movement of parts such as bearings or gears within a groove?
+A. Retaining ring
+B. Set screw
+C. Dowel pin
+D. Belleville washer
+
+Question ID:20251053
+True or False: Dowel pins are commonly used in mechanical assemblies to allow easy disassembly of components.
+A.True
+B.False
+
+Question ID:20251062
+Which of the following is a key disadvantage of brazing?
+A. It requires higher temperatures than welding.
+B. It may result in a weaker joint compared to welding.
+C. It is limited to use with only ferrous metals.
+D. It causes melting of the base materials.
+
+Question ID:20251063
+True or False: Chemical bonds are often used in place of mechanical fasteners in lightweight applications.
+A.True
+B.False
+
+Question ID:91707041
+A joint is welded as shown in the figure below. The applied force is 2,300 lbf. The base material is A36 steel, and it was welded using E90 filler rod. Assuming a factor of safety of 3 based on the AISC permissible stress, what is most nearly the length of weld required?
+A. 1.58 in
+B. 0.634 in
+C. 0.448 in
+D. 0.542 in
+
+Question ID:91707042
+A piston in a motorcycle engine is connected to the crankshaft by a connecting rod. The connecting rod is attached to the crankshaft by 2 SAE Grade-8 3/8"-24 UNF fasteners. When installed, the fasteners are torqued assuming they will not be reused if the engine is disassembled and rebuilt. The stiffness of each bolt is 5.09 × 106 lbf/in, and the connecting rod cap is roughly 8 times stiffer than a bolt. The maximum tensile force on the piston is 5,000 lbf. What is the resultant tension in each fastener if all of the piston force is applied to the bolted connection?
+A. 9,760 lbf
+B. 9,500 lbf
+C. 7,902 lbf
+D. 8,200 lbf
